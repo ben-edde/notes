@@ -5,7 +5,7 @@
 ## idea  
 
 - divide a problem into smaller overlapping sub-problems, then combine results
-    > as subproblem is part of original problem, result of sub-problems can form solution to original problem
+    > **optimal substructure**: sub-problems are parts of original problem, result of sub-problems can form solution to original problem
 - sub-problem should maintain same form while dividing, only problem size decrease
 - solutions of sub-problems are memorized  
     > as sub-problems are overlapping, same problem can appear for multiple times, solving same problems repeatedly wasting resources
