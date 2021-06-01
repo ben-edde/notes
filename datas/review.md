@@ -209,7 +209,7 @@ densities
       * what is it
         * algo to generate hierarchical clustering
       * how it work
-        * split cluter from less to more
+        * split cluster from less to more
       * why it work
         * each split maintain the hierarchical structure
   * cluster distance measure
