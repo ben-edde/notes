@@ -24,3 +24,12 @@
 * shortest common super-sequence  
 * single source shortest path (with -ve edges)
     > Bellman-Ford
+* 0-1 Knapsack problem  
+
+## network flow  
+
+* maximum flow
+    > Ford-Fulkerson  
+    > Edmonds-Karp
+    
+* maximum bipartite matching  
